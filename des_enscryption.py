@@ -35,7 +35,7 @@ def encrypt_des(plaintext):
 
 # Example usage
 if __name__ == "__main__":
-    message = "Hello my name is Saharsha"
+    message = "My name is Saharsha Bajracharya"
     encrypted_text, encryption_key = encrypt_des(message)
     print(f"Original message: {message}")
     print(f"Encrypted (Base64): {encrypted_text}")
