@@ -20,7 +20,7 @@ def main():
 
     # Alice chooses the private key a
     # a is the chosen private key
-    a = 4
+    a = 6
     print("The private key a for Alice:", a)
 
     # Gets the generated key
@@ -28,7 +28,7 @@ def main():
 
     # Bob chooses the private key b
     # b is the chosen private key
-    b = 3
+    b = 2
     print("The private key b for Bob:", b)
 
     # Gets the generated key
